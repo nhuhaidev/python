@@ -6,3 +6,4 @@ else:
     print('Sai')
 print('lêu lêu')
 print('...hair')
+print('hair')
