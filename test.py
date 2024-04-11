@@ -5,4 +5,4 @@ if (x+y)==1.47:
 else: 
     print('Sai')
 print('lêu lêu')
-print('....')
+print('...')
