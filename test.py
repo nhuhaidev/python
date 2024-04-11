@@ -4,6 +4,3 @@ if (x+y)==1.47:
     print('Dung')
 else: 
     print('Sai')
-print('lêu lêu')
-print('...hair')
-print('hair')
